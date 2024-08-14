@@ -1,0 +1,7 @@
+.button-btn{
+    background-color: green;
+    height: 3rem;
+    width: 5vw;
+    margin: .3rem;
+    border: 2px solid black;
+}
